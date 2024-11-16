@@ -24,13 +24,16 @@ const routes = [
     exact: true,
     component : "RedirectToTestingApp",
   },
-
   {
     path: "/delete-account",
     exact: true,
     component : "DeleteAccount",
+  },
+  {
+    path: "/about-us",
+    exact: true,
+    component : "AboutUs",
   }
-
 ];
 
 export default routes;

@@ -90,6 +90,6 @@ export const Span = styled("span")`
   &:focus {
     color: #2fd157;
     text-underline-position: under;
-    text-decoration: #2fd157 wavy underline;
+    text-decoration: #2fd157 underline;
   }
 `;

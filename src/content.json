@@ -1,6 +1,6 @@
 {
     "IntroContent": {
-      "title": "Snacc it",
+      "title": "Snacc It!",
       "text": "Elevate your health with Snacc. Capture a meal, get instant nutritional insights. For everyone committed to a healthier tomorrow.",
       "button": [
         {
@@ -22,7 +22,7 @@
       "button": "Connect with us"
     },
     "MissionContent": {
-      "title": "Personalized for your Health Goals",
+      "title": "Personalized For Your Health Goals",
       "text": "With Snacc, tailor your nutrition and fitness journey with ease. Achieve your goals with our custom insights."
     },
     "ProductContent": {
@@ -38,7 +38,7 @@
       "text": "Questions or feedback? Our streamlined contact form ensures your voice is heard. Let’s make nutrition tracking better, together."
     },
     "AboutContent": {
-      "title": "Transform your Diet with Snacc",
+      "title": "Transform Your Diet With Snacc",
       "text": "Snacc: Your roadmap to a healthier life. Track, understand, and improve your nutrition seamlessly.",
       "section": [
         {
@@ -47,7 +47,7 @@
           "icon": "camera.svg"
         },
         {
-          "title": "Insights in a Flash",
+          "title": "Insights In A Flash",
           "content": "Get instant, actionable nutrition breakdowns.",
           "icon": "insights.svg"
         },

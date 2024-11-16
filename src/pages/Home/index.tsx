@@ -27,7 +27,7 @@ const Home = () => {
         button={Content.MiddleBlockContent.button}
       />
       <ContentBlock
-        direction="left"
+        direction="right"
         title={Content.AboutContent.title}
         content={Content.AboutContent.text}
         section={Content.AboutContent.section}
@@ -36,7 +36,7 @@ const Home = () => {
       />
       <YouTubeEmbed videoId="URIKKpJwhqY" />
       <ContentBlock
-        direction="right"
+        direction="left"
         title={Content.MissionContent.title}
         content={Content.MissionContent.text}
         icon="product-launch.svg"
